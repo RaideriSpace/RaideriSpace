@@ -1,88 +1,121 @@
-<p align='center'>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Raideri%20Space&textBg=false&fontSize=53&animation=fadeIn&fontAlign=25&fontColor=3f2667">
-</p> 
-<h2 align="center">Hi 👋! I'm Raideri and welcome to my space!</h2>
+<div align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=3f2667&text=Raideri%20Space&fontColor=e15194&stroke=61053075&fontAlign=25&fontSize=60&reversal=true&strokeWidth=2">
+</div>
 
-<!-- Logo e Linguagens -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00c5e2&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Raideri,+Full+Stack+Developer;Building+amazing+projects+with+passion!;This+is+my+Space!" />
+</div>
+
+---
+
+## 🚀 About Me
+
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="350px">
-        <img height="150" src="https://i.imgur.com/vyxiQrB.png" alt="Raideri Space Logo" />
+      <td align="center">
+        <img src="https://i.imgur.com/vyxiQrB.png" width="150px" alt="Raideri Logo" />
       </td>
-      <td align="center" width="350px">
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-        </div>
+      <td align="left">
+        <ul>
+          <li>⚙️ Building cool projects and leveling up my coding skills one commit at a time</li>
+          <li>📚 FullStack JavaScript Bootcamp @ Generation Brasil</li>
+          <li>🎮 Degrees in <strong>Digital Games</strong> & <strong>Civil Engineering</strong></li>
+          <li>🧠 Passionate about full-stack development & creative problem solving</li>
+          <li>🚀 Always hunting for the next tech adventure</li>
+        </ul>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Estatísticas -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaideriSpace&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaideriSpace&theme=ocean_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" />
 </div>
 
-<!-- Contatos -->
+---
+
+## 📬 Let's Connect
+
 <div align="center">
   <a href="https://www.linkedin.com/in/lucasalvespinheiro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://wa.me/5511989157255" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:l.pinheiro.w@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://discordapp.com/users/254672975549300736" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
 
-<!-- Snake Animation -->
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaideriSpace/RaideriSpace/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaideriSpace/RaideriSpace/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaideriSpace/RaideriSpace/output/github-contribution-grid-snake.svg">
-  </picture>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=RaideriSpace&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaideriSpace&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Contador de visitas -->
+---
+
+## 🧩 Visual Highlights
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RaideriSpace.RaideriSpace&left_color=deepskyblue&right_color=deeppink" alt="visitor badge" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaideriSpace&theme=tokyonight" />
+</div>
+
+---
+
+## 🔥 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/RaideriSpace/register-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaideriSpace&repo=register-app&theme=tokyonight&hide_border=true" width="350px" />
+  </a>
+  <a href="https://github.com/RaideriSpace/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaideriSpace&repo=Portfolio&theme=tokyonight&hide_border=true" width="350px" />
+  </a>
+  <a href="https://github.com/RaideriSpace/projeto_final_bloco_01">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaideriSpace&repo=projeto_final_bloco_01&theme=tokyonight&hide_border=true" width="350px" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RaideriSpace.RaideriSpace&left_color=deepskyblue&right_color=deeppink" />
 </div>
