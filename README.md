@@ -7,10 +7,10 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="350px">
         <img height="150" src="https://i.imgur.com/vyxiQrB.png" alt="Raideri Space Logo" />
       </td>
-      <td align="center">
+      <td align="center" width="350px">
         <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
           <img width="12" />
