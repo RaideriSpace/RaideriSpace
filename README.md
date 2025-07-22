@@ -14,7 +14,9 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://i.imgur.com/vyxiQrB.png" width="150px" alt="Raideri Logo" />
+        <a href="https://portfolio-eight-wine-50.vercel.app/">
+          <img src="https://i.imgur.com/vyxiQrB.png" width="150px" alt="Raideri Logo" />
+        </a>
       </td>
       <td align="left">
         <ul>
@@ -101,15 +103,17 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaideriSpace&repo=register-app&theme=tokyonight&hide_border=true" width="350px" />
   </a>
   <a href="https://github.com/RaideriSpace/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaideriSpace&repo=Portfolio&theme=tokyonight&hide_border=true" width="350px" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaideriSpace&repo=Portfolio&theme=tokyonight&hide_border=true&cache_seconds=1" width="350px" />
+
   </a>
   <a href="https://github.com/RaideriSpace/projeto_final_bloco_01">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaideriSpace&repo=projeto_final_bloco_01&theme=tokyonight&hide_border=true" width="350px" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaideriSpace&repo=projeto_final_bloco_01&theme=tokyonight&hide_border=true&cache_seconds=1" width="350px" />
   </a>
 </div>
 
 ---
 
+<br>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
