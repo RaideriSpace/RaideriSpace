@@ -15,7 +15,7 @@
     <tr>
       <td align="center">
         <a href="https://portfolio-eight-wine-50.vercel.app/">
-          <img src="https://i.imgur.com/vyxiQrB.png" width="150px" alt="Raideri Logo" />
+          <img src="https://i.imgur.com/RTWmLDg.png" width="150px" alt="Raideri Logo" />
         </a>
       </td>
       <td align="left">
