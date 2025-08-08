@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" />
