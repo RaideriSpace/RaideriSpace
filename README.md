@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://portfolio-eight-wine-50.vercel.app/">
+        <a href="https://raiderispace.vercel.app/">
           <img src="https://i.imgur.com/RTWmLDg.png" width="150px" alt="Raideri Logo" />
         </a>
       </td>
@@ -70,11 +70,10 @@
   </a>
 </div>
 
----
-
+<!--
 ## 📈 GitHub Stats
 
-<div align="center">
+ <div align="center">
   <table>
     <tr>
       <td>
@@ -85,7 +84,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ---
 
@@ -95,8 +94,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaideriSpace&theme=tokyonight" />
 </div>
 
----
-
+<!-- 
 ## 🔥 Featured Repositories
 
 <div align="center">
@@ -110,7 +108,7 @@
   <a href="https://github.com/RaideriSpace/projeto_final_bloco_01">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaideriSpace&repo=projeto_final_bloco_01&theme=tokyonight&hide_border=true&cache_seconds=1" width="350px" />
   </a>
-</div>
+</div> -->
 
 ---
 
